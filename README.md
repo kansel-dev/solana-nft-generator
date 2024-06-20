@@ -10,5 +10,5 @@ An NFT generator is a tool or software application enabling users to produce the
 - Edit the address and `private_key` fields in the `config.json` file.
 - Add layer images by folders, set up rarity settings, select folder to save.
 
-![]
+![](https://github.com/kansel-dev/solana-nft-generator/blob/main/example.jpg?raw=true)
 
